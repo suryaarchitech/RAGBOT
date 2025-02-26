@@ -1,0 +1,9 @@
+openai
+langchain
+langchain-openai
+langchain_community
+chromadb
+pgvector
+
+python-dotenv
+PyPDF2
